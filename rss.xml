@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>羽商的博客</title>
+        <link>http://localhost:1313/</link>
+        <description>碰不到天边的那吕彩霞，只能听到雷声轰隆，摸不到微风拂来的朵朵桃花，却能听见树叶沙沙，看不见世间无聊的繁华，却能听见人群的熙熙攘攘。</description>
+        <generator>Hugo 0.124.1 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>1848886093@qq.com (羽商)</managingEditor>
+        
+        
+            <webMaster>1848886093@qq.com (羽商)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Thu, 02 May 2024 14:01:05 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
+        
+        
+            <item>
+                <title>自我介绍</title>
+                <link>http://localhost:1313/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</link>
+                <guid isPermaLink="true">http://localhost:1313/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</guid>
+                <pubDate>Thu, 02 May 2024 12:37:34 &#43;0800</pubDate>
+                
+                    <author>1848886093@qq.com (羽商)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;生日&lt;/th&gt;
+&lt;th&gt;年龄&lt;/th&gt;
+&lt;th&gt;性别&lt;/th&gt;
+&lt;th&gt;星座&lt;/th&gt;
+&lt;th&gt;爱好&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2007年8月1号&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;男&lt;/td&gt;
+&lt;td&gt;狮子座&lt;/td&gt;
+&lt;td&gt;计算机、IP、小说、音乐、美食&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

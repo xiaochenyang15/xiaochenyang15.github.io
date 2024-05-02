@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">羽商的博客</title>
+    <subtitle type="html">碰不到天边的那吕彩霞，只能听到雷声轰隆，摸不到微风拂来的朵朵桃花，却能听见树叶沙沙，看不见世间无聊的繁华，却能听见人群的熙熙攘攘。</subtitle>
+    <updated>2024-05-02T14:01:05&#43;08:00</updated>
+    <id>http://localhost:1313/</id>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
+    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
+    <author>
+            <name>羽商</name>
+            <uri>http://localhost:1313/</uri>
+            
+                <email>1848886093@qq.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.124.1">Hugo</generator>
+        <entry>
+            <title type="text">自我介绍</title>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/" />
+            <id>http://localhost:1313/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</id>
+            <updated>2024-05-02T13:01:25&#43;08:00</updated>
+            <published>2024-05-02T12:37:34&#43;08:00</published>
+            <author>
+                    <name>羽商</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>1848886093@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">生日 年龄 性别 星座 爱好 2007年8月1号 16 男 狮子座 计算机、IP、小说、音乐、美食</summary>
+            
+                <content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;生日&lt;/th&gt;
+&lt;th&gt;年龄&lt;/th&gt;
+&lt;th&gt;性别&lt;/th&gt;
+&lt;th&gt;星座&lt;/th&gt;
+&lt;th&gt;爱好&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2007年8月1号&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;男&lt;/td&gt;
+&lt;td&gt;狮子座&lt;/td&gt;
+&lt;td&gt;计算机、IP、小说、音乐、美食&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
